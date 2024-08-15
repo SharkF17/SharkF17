@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Diego Miguel</h1>
 <h3 align="center">A passionate Fullstack developer from México</h3>
 
-- 🔭 I’m currently working on [Migo Digital](https://sharkf17.github.io/migo/)
+- 🔭 I’m currently working on [Migo Digital](https://migodigital.netlify.app/)
 
 - 🌱 I’m currently learning **Databases and Javascript**
 
