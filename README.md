@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Databases and Javascript**
 
-- 👨‍💻 All of my projects are available at [https://sharkf17.github.io/](https://sharkf17.github.io/)
+- 👨‍💻 All of my projects are available at [My Website](https://diegomg.netlify.app/)
 
 - 💬 Ask me about **Django and Python**
 
