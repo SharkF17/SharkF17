@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [My Website](https://diegomg.netlify.app/)
 
-- 💬 Ask me about **Django and Python**
+- 💬 Ask me about **Django, Python and React**
 
-- ⚡ Fun fact **Mis pizzas saben riquisimas**
+- ⚡ Fun fact **I love making pizzas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
