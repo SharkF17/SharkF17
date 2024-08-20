@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Migo Digital](https://migodigital.netlify.app/)
 
-- 🌱 I’m currently learning **Databases and Javascript**
+- 🌱 I’m currently learning **React and Web Scrapping with Python**
 
 - 👨‍💻 All of my projects are available at [My Website](https://diegomg.netlify.app/)
 
