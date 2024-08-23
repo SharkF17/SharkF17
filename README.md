@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React and Web Scrapping with Python**
 
-- 👨‍💻 All of my projects are available at [My Website](https://diegomg.netlify.app/)
+- 👨‍💻 All of my projects are available at <a href="https://devmiguel.site" target="blank">My Website</a>
 
 - 💬 Ask me about **Django, Python and React**
 
