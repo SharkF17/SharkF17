@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **React and Web Scrapping with Python**
 
-- 👨‍💻 All of my projects are available at <a href="https://devmiguel.site" target="_blank">My Website</a>
+- 🌐 All of my projects are available at <a href="https://devmiguel.site" target="_blank">My Website</a>
+
+- 👨‍💻 I´m always training at <a href="https://www.codewars.com/users/SharkF17" target="_blank">CodeWars</a>
 
 - 💬 Ask me about **Django, Python and React**
 
